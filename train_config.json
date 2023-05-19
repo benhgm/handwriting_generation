@@ -1,0 +1,13 @@
+{
+    "group_name": "handwriting_synthesis",
+    "run_name": "test_30_mixture_component",
+    "batch_size": 50,
+    "epochs": 60,
+    "lr": 0.0005,
+    "optim": "adam",
+    "dictionary_size": 60,
+
+    "checkpoint_dir": "experiments/",
+
+    "project_name": "handwriting_generation"
+}
