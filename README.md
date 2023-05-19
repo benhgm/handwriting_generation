@@ -45,7 +45,8 @@ python train.py
 ```
 
 # Generation
-To generate a sample handwritten text, edit the input text in `demo.py` and execute:
+To generate a sample handwritten text, like below, edit the input text in `demo.py` and execute:
 ```
 python demo.py
 ```
+[](assets/the_quick_brown_fox.jpg)
