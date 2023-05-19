@@ -11,17 +11,17 @@ A sample training config is shown below. The training run is logged using [Weigh
 
 ### Config Variables
 #### Weights & Biases Config
-`project_name`: Name of the project
-`group_name`: The experiment group name
-`run_name`: Name of the current experiment run
+`project_name`: Name of the project <br>
+`group_name`: The experiment group name <br>
+`run_name`: Name of the current experiment run <br>
 
 #### Hyperparameters / Parameters
-`batch_size`: Batch size
-`epochs`: Number of epochs
-`lr`: Initial learning rate
-`optim`: Optimizer to use
-`dictionary_size`: Number of alphabetical/symbolic characters to predict for
-`checkpoint_dir`: Checkpoint save directory
+`batch_size`: Batch size<br>
+`epochs`: Number of epochs<br>
+`lr`: Initial learning rate<br>
+`optim`: Optimizer to use<br>
+`dictionary_size`: Number of alphabetical/symbolic characters to predict for<br>
+`checkpoint_dir`: Checkpoint save directory<br>
 
 ```
 {
