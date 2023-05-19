@@ -7,7 +7,7 @@ The code in this repository is heavily referenced from the following repositorie
 
 
 # Training Config
-A sample training config is shown below. The training run is logged using [Weights & Biases](https://wandb.ai).
+A sample `train_config.json` is shown below. The training run is logged using [Weights & Biases](https://wandb.ai).
 
 ### Config Variables
 #### Weights & Biases Config
