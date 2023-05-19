@@ -50,4 +50,3 @@ To generate a sample handwritten text, like below, edit the input text in `demo.
 python demo.py
 ```
 ![jpg](assets/the_quick_brown_fox.jpg)
-*the quick brown fox jumps over the lazy dog*
