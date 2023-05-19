@@ -49,4 +49,4 @@ To generate a sample handwritten text, like below, edit the input text in `demo.
 ```
 python demo.py
 ```
-[](assets/the_quick_brown_fox.jpg)
+![jpg](assets/the_quick_brown_fox.jpg)
