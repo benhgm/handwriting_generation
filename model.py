@@ -168,7 +168,6 @@ class HandwritingSynthesisNetwork(Module):
             phi_t = phi[0, :].unsqueeze(0)
             if phi_t.argmax(dim=1) == phi_t.shape[1] - 1:
                 break
-
         phis = torch.stack(phis, dim=1)
 
         return torch.stack(strokes, 1), phis
